@@ -91,9 +91,6 @@
 
 - 🤖 I automate everything I can!
 - 🎮 Gaming enthusiast, always up for a good challenge.
-- 📚 Avid reader, especially of tech blogs and sci-fi novels.
-- 🌍 I love exploring new cultures and meeting people from around the world.
-- 💬 Always happy to chat about tech, life, or anything in between!
-- 🔗 Feel free to reach out if you want to collaborate on a project, share ideas, or just say hi!
+- 🌌 I love exploring new technologies.
 
 ---
