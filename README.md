@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Laidwin</h1>
-<p align="center">
-  <img src="https://github.com/Laidwin.png" width="120" alt="Laidwin GitHub Avatar" align="center" style="border-radius: 20%;"/>
-</p>
 
 ---
 
