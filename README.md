@@ -17,7 +17,7 @@
 
 - 🎓 I am currently studying at **IMT Mines Alès**.
 - 📚 I am pursuing an **Engineer's degree**.
-- 📅 Expected graduation: **2027**.
+- 📅 Expected graduation: **September 2027**.
 - 📍 Located in Alès, France.
 
 ---
